@@ -1,0 +1,15 @@
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\bin\Debug\net6.0\std-in-5-2.exe
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\bin\Debug\net6.0\std-in-5-2.deps.json
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\bin\Debug\net6.0\std-in-5-2.runtimeconfig.json
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\bin\Debug\net6.0\std-in-5-2.dll
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\bin\Debug\net6.0\std-in-5-2.pdb
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\std-in-5-2.csproj.AssemblyReference.cache
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\std-in-5-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\std-in-5-2.AssemblyInfoInputs.cache
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\std-in-5-2.AssemblyInfo.cs
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\std-in-5-2.csproj.CoreCompileInputs.cache
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\std-in-5-2.dll
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\refint\std-in-5-2.dll
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\std-in-5-2.pdb
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\std-in-5-2.genruntimeconfig.cache
+E:\Users\takumi\Documents\Programs\paiza-workbook\std-in\std-in-5-2\obj\Debug\net6.0\ref\std-in-5-2.dll
