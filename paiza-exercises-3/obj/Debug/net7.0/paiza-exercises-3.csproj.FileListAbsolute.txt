@@ -1,0 +1,15 @@
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\bin\Debug\net7.0\paiza-exercises-3.exe
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\bin\Debug\net7.0\paiza-exercises-3.deps.json
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\bin\Debug\net7.0\paiza-exercises-3.runtimeconfig.json
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\bin\Debug\net7.0\paiza-exercises-3.dll
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\bin\Debug\net7.0\paiza-exercises-3.pdb
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\paiza-exercises-3.csproj.AssemblyReference.cache
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\paiza-exercises-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\paiza-exercises-3.AssemblyInfoInputs.cache
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\paiza-exercises-3.AssemblyInfo.cs
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\paiza-exercises-3.csproj.CoreCompileInputs.cache
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\paiza-exercises-3.dll
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\refint\paiza-exercises-3.dll
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\paiza-exercises-3.pdb
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\paiza-exercises-3.genruntimeconfig.cache
+E:\Users\takumi\Documents\Programs\paiza-workbook\paiza-exercises-3\obj\Debug\net7.0\ref\paiza-exercises-3.dll

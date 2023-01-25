@@ -4,7 +4,11 @@ class Program
 {
 	static void Main()
 	{
-        Console.WriteLine();
+		// reverse character string
+//		var s = Console.ReadLine();
+//		var rslt = new string(s.Reverse().ToArray());
+//		Console.WriteLine(rslt);
+    
 	}
 }
 
