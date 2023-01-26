@@ -5,12 +5,11 @@ class Programs
 	static void Main()
 	{
 		var n = int.Parse(Console.ReadLine());
+		var input = Console.ReadLine().Split(' ');
 
-		var a = 0;
-		for(var i=0; i < 1000; i++)
+		for(var i=0; i < n; i++)
 		{
-			a = int.Parse(Console.ReadLine());
-			Console.WriteLine(a);
+			Console.WriteLine(input[i]);
 		}
 	}
 }
